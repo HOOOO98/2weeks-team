@@ -1,13 +1,15 @@
-### 📌 개발 기간 :  `2주` `23.09.11 ~ 23.09.22`
-
-
-![main](https://github.com/2weeks-team/2weeks-team/assets/39702832/00e5c4cc-0466-4982-a941-38a01abb1a8a)
-
 ## 📌 프로젝트 소개
 **FASTUDY**는 프로젝트 및 스터디원 모집 및 정보 공유 서비스입니다
+<br>
+
+## 📌 개발 기간 
+`2주 23.09.11 ~ 23.09.22`
 
 ## 📌 배포 사이트
 https://2weeks-team-mzbe-c7xmzksqc-2weeks.vercel.app/
+
+![main](https://github.com/2weeks-team/2weeks-team/assets/39702832/00e5c4cc-0466-4982-a941-38a01abb1a8a)
+
 
 <details>
 <summary>야놀자 테크 캠프 토이 프로젝트 설명</summary>
